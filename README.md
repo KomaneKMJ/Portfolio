@@ -1,7 +1,7 @@
 # Portfolio
 Komane_MJ_Port
 # Personal Portfolio
-
+![portfolio screenshot](image.png)
 
 
 This is a personal portfolio website showcasing my skills, experience, and work in the IT and software development field. The website highlights my expertise in various technical areas including desktop support, Microsoft administration, and record management. The portfolio also includes a section for contact details and a downloadable CV.
