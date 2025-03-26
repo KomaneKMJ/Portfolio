@@ -42,3 +42,14 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/personal-portfolio.git
+
+   
+
+## Portfolio side Link
+   
+   Portfolio: https://komanekmj.github.io/Portfolio/
+   
+## Contacts:   
+   Email: matshehlekomane@gmail.com
+   LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGXXIgEvFS16H%2FbbC0x2gHw%3D%3D
+   
