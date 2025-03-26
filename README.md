@@ -3,6 +3,7 @@
 ## Matshehle Komane - Software Developer Portfolio
 ![image](https://github.com/user-attachments/assets/35c3d919-1723-4dc0-a7a2-22ea287fdc0c)
 
+Portfolio link: https://komanekmj.github.io/Portfolio/
  
 *A modern, responsive portfolio showcasing my skills and experience*
 
