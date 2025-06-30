@@ -142,15 +142,10 @@ portfolio-main/
   </div>
 </div>
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 <div style="text-align: center; margin-top: 30px;">
   <p>Made with <i class="fa-solid fa-heart" style="color: red;"></i> by Matshehle Komane</p>
   <p>© 2025 All Rights Reserved</p>
 </div>
 
----
 
-**Pro Tip**: For optimal results, deploy using GitHub Pages and connect to a custom domain for a truly professional web presence. Consider adding Google Analytics for visitor insights.
